@@ -1,6 +1,8 @@
 # AoC-More-Speed-Options
 Adds a varied set of default speed options and comes with a customizable config so you can add your own.
 
+Default values: 0.1f, 0.25f, 0.5f, 1f, 1.5f, 2f, 2.5f, 3f, 5f, 10f
+
 ## Requirements
 - BepInEx 5 x64 (Mono). Download from the official BepInEx releases. https://github.com/bepinex/bepinex/releases
 
